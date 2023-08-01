@@ -1,4 +1,4 @@
 ## Aula Declaração de Variáveis:
 https://projetosarahribeiro.github.io/javascrip_basico/DeclaracaoVariaveis/aula1.html
-
-#javascrip_basico
+## Aula de Funções:
+https://projetosarahribeiro.github.io/javascrip_basico/Funcoes/funcoes.html
