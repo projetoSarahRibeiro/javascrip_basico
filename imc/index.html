@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculado o Imc</title>
+</head>
+<body>
+    <form  id="imcForm" name="imcForm" action="#">
+        <p>
+            altura<br>
+            <input type="text" id="altura" name="altura">
+        </p>
+        <p>
+            peso<br>
+            <input type="text" id="peso" name="peso">
+        </p>
+        <p>
+            <input type="submit" name="Enviar" value="Calcular" onclick="calcula_imc(event)">
+        </p>
+
+        <div id="resul">
+        </div>
+    </form>
+    <script src="imc2.js"></script>
+</body>
+</html>
