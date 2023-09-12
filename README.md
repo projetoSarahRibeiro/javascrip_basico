@@ -5,7 +5,7 @@ https://projetosarahribeiro.github.io/javascript_basico/Funcoes/funcoes.html
 ## Cadastro
 https://projetosarahribeiro.github.io/javascript_basico/Cadastro/index.html
 ## IMC
-https://projetosarahribeiro.github.io/javascript_basico/imc/index.html
+
 ## Tabuada
 https://projetosarahribeiro.github.io/javascript_basico/tabuada/index.html
 
