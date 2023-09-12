@@ -3,7 +3,7 @@ https://projetosarahribeiro.github.io/javascript_basico/DeclaracaoVariaveis/aula
 ## Aula de Funções:
 https://projetosarahribeiro.github.io/javascript_basico/Funcoes/funcoes.html
 ## Cadastro
-https://projetosarahribeiro.github.io/javascript_basico/Cadastro/funcoes.html/index.html
+https://projetosarahribeiro.github.io/javascript_basico/Cadastro/funcoes.js/index.html
 ## IMC
 https://projetosarahribeiro.github.io/javascript_basico/imc/index.html
 ## Tabuada
