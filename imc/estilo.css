@@ -37,4 +37,10 @@ input[type=submit] {
     cursor: pointer;
   }
 
+figure{
+    width: 100px;
+    margin-left: 250px;
+    
+  }
+
 
