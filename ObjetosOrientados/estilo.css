@@ -9,7 +9,6 @@ img{
     padding: 20px;
     background-color:	#FFF5EE;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
    margin-top: 20px;
 }
 
@@ -50,9 +49,10 @@ h5{
     letter-spacing: 1px;   
 }
 
-p{
+.p1{
     padding-top: 10px;
     padding-bottom: 4px;
+    background-color: #E9967A;
 }
 
 .texto{
@@ -62,22 +62,22 @@ p{
 
 .display-details {
     margin-top: 20px;
-    border-style: solid;
 }
 
-.p2{
+.p{
     text-align: center;
+    background-color: brown;
 }
 
 
 .nav1{
   background-color: #FA8072;
+  
 }
 
 a{
     font-size: 24px;
     letter-spacing: 2px;
-    text-align: center;
     text-align: center;
 }
 
