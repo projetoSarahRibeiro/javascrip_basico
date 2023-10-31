@@ -10,5 +10,7 @@ https://projetosarahribeiro.github.io/javascript_basico/imc/index.html
 https://projetosarahribeiro.github.io/javascript_basico/tabuada/index.html
 ## Objetos Orientados 
 https://projetosarahribeiro.github.io/javascript_basico/ObjetosOrientados/index.html
+## Objetos Orientados 2
+https://projetosarahribeiro.github.io/javascript_basico/ObjOrien2/index.html
 
 
