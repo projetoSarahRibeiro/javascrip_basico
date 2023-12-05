@@ -14,4 +14,5 @@ https://projetosarahribeiro.github.io/javascript_basico/ObjetosOrientados/index.
 https://projetosarahribeiro.github.io/javascript_basico/ObjOrien2/index.html
 ## Evento de Imagens
 https://projetosarahribeiro.github.io/javascript_basico/EventoImg/index.html
+# Validação com Regex
 
